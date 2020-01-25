@@ -8,7 +8,7 @@ tes masuk kerja
 
 ## Getting Started
 
-* git clone https://github.com/abdurhasan/finance-scraping
+* git clone https://github.com/tioprstyo/tempat.com.git
 * cd tampatcom
 * npm install
 * npm start
