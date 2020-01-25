@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "tempatcom",
+    "slug": "tempatcom",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://tempat.com/img/logo-tempat-text.png",
+    "splash": {
+      "image": "https://tempat.com/img/logo-tempat-text.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5237B9"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
