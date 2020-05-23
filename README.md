@@ -1,5 +1,4 @@
 # tempat.com
-tes masuk kerja
 
 ### Dependencies
 
